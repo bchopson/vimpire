@@ -78,5 +78,6 @@ endif
 Plug 'nanotech/jellybeans.vim'
 Plug 'tomasr/molokai'
 Plug 'chriskempson/base16-vim'
+Plug 'joshdick/onedark.vim'
 
 call plug#end()
